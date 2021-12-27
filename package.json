@@ -1,11 +1,11 @@
 {
-  "author": "IranHR Team",
+  "author": "Mizan Team",
   "license": "Apache-2.0",
-  "name": "@iranhr/eslint-config",
+  "name": "@exam/eslint-config",
   "version": "1.0.0",
-  "description": "IranHR's ESLint config",
+  "description": "Mizan's ESLint config",
   "keywords": [
-    "iranhr",
+    "mizan",
     "eslint",
     "eslintconfig",
     "jsdoc",
