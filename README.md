@@ -1,17 +1,17 @@
 # iranhr-eslint-config
 
-> IranHR's [ESLint](https://eslint.org) config.
+> My [ESLint](https://eslint.org) config.
 
 ## Installation
 
 ```shell
-yarn add @iranhr/eslint-config@https://git.inre.ir/iranhr-front-developers/eslint-config.git --dev
+yarn add @alirezark/eslint-config --dev
 ```
 
 or:
 
 ```shell
-npm install @iranhr/eslint-config@https://git.inre.ir/iranhr-front-developers/eslint-config.git --save-dev
+npm install @alirezark/eslint-config --save-dev
 ```
 
 Don't forget to install peerDependencies.
@@ -22,7 +22,7 @@ Don't forget to install peerDependencies.
 
 ```json
 {
-  "extends": ["@iranhr/eslint-config"]
+  "extends": ["@alirezark/eslint-config"]
 }
 ```
 
