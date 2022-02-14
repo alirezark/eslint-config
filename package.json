@@ -2,7 +2,7 @@
   "author": "Mizan Team",
   "license": "Apache-2.0",
   "name": "@alirezark/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mizan's ESLint config",
   "keywords": [
     "mizan",
@@ -20,7 +20,7 @@
     "index.js"
   ],
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.9.0",
+    "@typescript-eslint/eslint-plugin": "^5.11.0",
     "@typescript-eslint/parser": "^5.9.0",
     "babel-eslint": "^10.1.0",
     "eslint": "8.6.0",
@@ -32,5 +32,5 @@
     "eslint-plugin-react": "7.28.0",
     "eslint-plugin-react-hooks": "4.3.0",
     "prettier": "2.5.1"
-  }
+  },
 }
